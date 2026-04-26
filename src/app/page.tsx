@@ -96,7 +96,7 @@ export default function Home() {
     <main className="min-h-dvh bg-gradient-to-b from-zinc-50 to-zinc-100 dark:from-zinc-950 dark:to-black">
       <div className="mx-auto flex w-full max-w-xl flex-col gap-6 px-4 py-12 sm:py-20">
         <header className="flex flex-col gap-1">
-          <h1 className="text-3xl font-semibold tracking-tight">Todo</h1>
+          <h1 className="text-3xl font-semibold tracking-tight">つちやのTODOリスト</h1>
           <p className="text-sm text-muted-foreground">
             {loading
               ? "読み込み中…"
