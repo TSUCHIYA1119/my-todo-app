@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "つちやのTODOリスト",
-  description: "つちやのTODOリスト",
+  title: "田中のToDoリスト",
+  description: "田中のToDoリスト",
 };
 
 export default function RootLayout({
